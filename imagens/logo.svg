@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/toy/Desktop/desenvolvimento/Dagoni RPG Game Tools/imagens"
+   sodipodi:docname="logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/toy/Desktop/desenvolvimento/Dagoni RPG Game Tools/imagens/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14137">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop14139" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop14141" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14057">
+      <stop
+         style="stop-color:#01000b;stop-opacity:0.56122446;"
+         offset="0"
+         id="stop14059" />
+      <stop
+         id="stop14135"
+         offset="1"
+         style="stop-color:#221f37;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13067">
+      <stop
+         style="stop-color:#ffd800;stop-opacity:1;"
+         offset="0"
+         id="stop13069" />
+      <stop
+         style="stop-color:#ffd800;stop-opacity:0;"
+         offset="1"
+         id="stop13071" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13004">
+      <stop
+         style="stop-color:#4f2e00;stop-opacity:1;"
+         offset="0"
+         id="stop13006" />
+      <stop
+         style="stop-color:#0e2f00;stop-opacity:0;"
+         offset="1"
+         id="stop13008" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14057"
+       id="linearGradient14063"
+       x1="-200.00047"
+       y1="200.05034"
+       x2="-13.311615"
+       y2="200.05034"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5289732,0,0,1.0169613,-92.968082,-2.6471189)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14137"
+       id="linearGradient14143"
+       x1="-200.00165"
+       y1="200.79636"
+       x2="-98.770882"
+       y2="200.79636"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter14333">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1797534"
+         id="feGaussianBlur14335" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2498413"
+     inkscape:cx="184.13355"
+     inkscape:cy="83.541156"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="400px"
+     height="200px"
+     inkscape:window-width="999"
+     inkscape:window-height="689"
+     inkscape:window-x="15"
+     inkscape:window-y="25"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="vertical"
+       position="199.14656"
+       id="guide11034" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="54.312697"
+       id="guide11036" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="13.578174"
+       id="guide11038" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200.27807"
+       id="guide12012" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="0"
+       id="guide12014" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="186.6999"
+       id="guide12016" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="99.573278"
+       id="guide12018" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background">
+    <rect
+       style="opacity:1;fill:url(#linearGradient14063);fill-opacity:1;stroke:url(#linearGradient14143);stroke-width:2.47735572;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12020"
+       width="98.75341"
+       height="406.32831"
+       x="-198.76297"
+       y="-2.3677976"
+       transform="matrix(-4.1049205e-3,-0.9999916,1,-1.4940358e-5,0,0)" />
+    <rect
+       style="opacity:1;fill:#211e38;fill-opacity:0.96097559;stroke:none;stroke-width:2.47199988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12994"
+       width="402.81918"
+       height="100.7048"
+       x="-1.1315145"
+       y="-0.27807" />
+  </g>
+  <g
+     inkscape:label="titulos"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:#c4c4c4;fill-opacity:1;stroke:none;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:a Theme for murder;stroke-miterlimit:4;stroke-dasharray:none"
+       x="18.016998"
+       y="115.64844"
+       id="text2172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2225"
+         x="18.016998"
+         y="115.64844"
+         style="font-size:16px;fill:#c4c4c4;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-size:16px;fill:#c4c4c4;fill-opacity:1;stroke:none;stroke-opacity:1;font-family:Arial Black;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan10063">RPG Game Tools </tspan></tspan></text>
+    <g
+       id="g14168">
+      <path
+         sodipodi:nodetypes="ccccssscssccccccccc"
+         id="Drag__o_Vetorizado"
+         d="M 12.424897,26.697299 C 22.922404,29.228349 69.49794,27.17786 68.47574,39.42066 C 73.561273,40.89628 79.275643,37.93997 82.577085,51.98958 C 80.226203,54.77901 86.811925,50.28312 89.633405,60.52856 C 92.795385,70.23185 81.277195,76.08234 83.449885,96.99038 C 83.730575,99.69151 89.022375,100.67108 91.324975,99.53376 C 93.627575,98.39647 96.114715,96.33028 98.661065,93.24126 C 101.20741,90.15224 101.51037,87.17768 101.51037,87.17768 C 101.51037,87.17768 87.690765,100.40001 89.831895,95.27581 C 92.032975,90.00807 103.59547,61.49635 103.79475,61.25994 C 111.29915,52.35622 123.32671,48.51847 122.42184,52.72579 C 128.56739,38.615513 135.44901,39.540537 149.82319,49.715536 C 146.43206,42.969632 159.43818,46.721582 180.76682,69.352363 C 200.07034,95.099214 162.12562,29.888823 135.87694,27.229938 C 131.78079,26.225249 129.71414,25.022875 126.29618,25.907589 C 119.12165,27.764665 111.44357,34.729822 104.79387,43.334247 L 89.131735,41.50023 C 83.569525,38.6987 82.439705,31.8908 80.381603,25.92196 C 64.918198,14.15037 16.87512,26.085679 12.424897,26.697299 z "
+         style="fill:#c5c5c5;fill-opacity:0.99607843;fill-rule:evenodd;stroke:none;stroke-width:2.47199988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Dragão Vetorizado" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#c5c5c5;fill-opacity:0.99607843;stroke:none;stroke-width:2.47199988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Arial"
+         x="19.306387"
+         y="90.682762"
+         id="text8113"><tspan
+           sodipodi:role="line"
+           id="tspan8115"
+           x="19.306387"
+           y="90.682762"
+           style="font-size:56px;fill:#c5c5c5;fill-opacity:0.99607843;stroke:none;stroke-width:2.47199988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Impact">RG</tspan></text>
+    </g>
+    <path
+       inkscape:label="Dragão Vetorizado"
+       style="opacity:1;fill:#a1a1a1;fill-opacity:0.32682926;fill-rule:evenodd;stroke:none;stroke-width:2.47199988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter14333)"
+       d="M 158.78503,15.150773 C 173.28144,22.71829 241.67082,28.2014 236.43026,53.883773 C 243.3766,58.077546 252.59654,53.028787 253.09231,83.444864 C 248.81694,88.849816 259.77656,80.728027 260.74036,102.99571 C 262.36574,124.18837 243.81478,134.13559 240.56574,178.82171 C 240.14598,184.59475 247.54446,187.78268 251.2431,185.86235 C 254.94172,183.9421 259.19361,180.09579 263.84522,174.09831 C 268.49683,168.10083 269.84954,161.87245 269.84954,161.87245 C 269.84954,161.87245 245.69027,186.9285 250.37628,176.54044 C 255.19352,165.8614 280.75646,107.98689 281.11886,107.52881 C 294.76641,90.276603 313.44138,84.69444 310.83504,93.403636 C 324.10187,64.851172 333.83006,68.258939 351.62296,92.813558 C 348.75752,77.828533 366.52929,88.507641 390.62125,140.87707 C 410.81163,199.4111 375.59974,53.466981 338.22683,42.307841 C 332.57553,39.318872 329.93747,36.339667 324.69359,37.490457 C 313.68633,39.906068 300.38044,53.020923 288.06812,69.820238 L 265.84422,62.638206 C 258.61091,55.539155 259.05435,40.899781 257.89004,27.839586 C 239.00194,-0.32205207 165.44697,14.795322 158.78503,15.150773 z "
+       id="path14166"
+       sodipodi:nodetypes="ccccssscssccccccccc"
+       transform="matrix(1.0673122,0,0,1.1259453,-18.689187,-12.418472)" />
+  </g>
+</svg>
